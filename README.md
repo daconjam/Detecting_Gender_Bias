@@ -1,5 +1,8 @@
 # Detecting_Gender_Bias
- The primary goal of this project is to detecting and examining gender bias in news articles
+The primary goal of this project is to detecting and examining gender bias in news articles. 
+This repository contains code to reproduce analysis in "Does Gender Matter in the News? Detecting and Examining Gender Bias" by Jamell Dacon and Haochen Liu, as part of the The Web Conference 2021 -- WWW'21.
+
+
  
  ## Datasets
 We conduct experiments to detect and examine the bias across the two datasets. We will now detail the three datasets as follows:
