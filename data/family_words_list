@@ -1,0 +1,18 @@
+family_words = ['niece', 'mother', 'mom','mummies','grandmother','nuns', 'stepdaughter', 'women', 'daughter-in-law', 'daughter', 'queens',
+                'brides', 'mummy', 'empresses', 'madam', 'granddaughter', 'grand-daughter','moms','stepmothers', 'stepdaughters', 'girlfriend', 
+                'grand-mothers', 'grandmothers', 'step-daughter', 'nieces', 'wife', 'mothers','wives', 'girl',  'madams', 'mamas', 'aunt', 
+                'fiancee', 'mrs','mother-in-law', 'bride', 'daughters-in-law','aunts', 'heir', 'heiress', 'sister', 'grandma', 'grandmas', 'dam', 'widow', 
+                'granddaughters', 'grand-daughters', 'girls', 'she',  'step-mother','stepmother','mrs.', 'sisters','mama', 'woman','daughters', 
+                'girlfriends', 'ma', 'mum','mommy', 'gal', 'gals', 'sistren', 'matriarch', 'matriarchy', 'motherhood', 'wifey', 'sis', 
+                'granny', 'grannies', 'mami', 'momma', "ma'am", 'gf', 'gfs', 'damsel', 'damsels', 'vixen', 'vixens', 'nanny', 'nannies','auntie', 
+                'womenfolk', 'sisterly', 'motherly', 'homegirl', 'homegirls', 'grand-neice', 'grand-neices','grandneice', 'grandneices', 'madame',
+                'him','father', 'fathers','dad', 'beau', 'beaus', 'daddies','grandfather', 'step-son', 'step-sons', 'men', 'son-in-law', 'daddy', 'son', 'groom', 'grooms', 
+                'sir', 'grandson', 'grand-son','dads', 'prince', 'stepfathers','boyfriend', 'grandfathers', 'grand-fathers', 'husband', 
+                'husbands', 'boy', 'bachelor', 'bachelors', 'sirs', 'papas', 'uncle', 'princes', 'fiance', 'mr','father-in-law',
+                'sons-in-law', 'fiances', 'uncles', 'brother', 'grandpa', 'grandpas', 'widower','grandsons', 'grand-sons','boys', 'step-father','bridegroom', 'bridegrooms'
+                'stepfather', 'widowers', 'mr.,' 'brothers', 'man', 'sons', 'boyfriends', 'he’s', 'his', 'stepson', 'stepsons', 
+                'guy', 'fraternity', 'fraternities', 'salesman', 'dude', 'dudes', 'paternal',
+                'brotherhood', 'papa', 'boyhood', 'manhood', 'masculine', 'brethren', 'chap','chaps',
+                'patriarch', 'patriachy', 'fatherhood', 'hubby', 'hubbies', 'fella', 'fellas', 'fraternal', 
+                'bro', 'pappy', 'papi', 'pappies', 'dada', 'bf', 'bfs', 'brotherly', 'homeboy', 'homeboys','grandnephew', 'grand-nephew',
+                'grand-nephew', 'grand-nephews', 'gramps', 'family', 'infancy', 'infant', 'kin', 'orphan', 'twin']
