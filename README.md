@@ -1,10 +1,37 @@
-# Detecting_Gender_Bias
-The primary goal of this project is to detecting and examining gender bias in news articles. 
+# Does Gender Matter in the News? Detecting and Examining Gender Bias
 This repository contains code to reproduce analysis in "Does Gender Matter in the News? Detecting and Examining Gender Bias" by Jamell Dacon and Haochen Liu, as part of the The Web Conference 2021 -- WWW'21.
+
+    
+If you publish material based on material and/ or information obtained from this repository, then, in your acknowledgements, please note the assistance you received from utilizing this repository. By citing our paper and dataset repository as follows below, feel free to star ![GitHub stars](https://img.shields.io/github/stars/daconjam/Detecting_Gender_Bias?style=social) and/or fork ![Github forks](https://img.shields.io/github/forks/daconjam/Detecting_Gender_Bias?style=social)
+both repositories so that academics i.e. university researchers, faculty and other scientists may have quicker access to the available datasets and large lists of gender-specific and gender-neutral possessive nouns, and career and family words. This will aid in directing others in obtaining the same datasets and files, thus allowing both replication and improvement of detecting, examining and mitigating gender bias.
+
+
+## Addition Information: Correspondence
+
+Personal Page: [Portfolio](https://www.cse.msu.edu/~daconjam/)
+
+
+
+## Citation
+
+Paper BiBTeX citation:
+    
+    Coming soon..
+
+Repository BiBTeX citation:
+    
+    @misc{DaconRepo,
+      author = {Jamell Dacon},
+      title = {Recommender System Datasets},
+      year = {2020},
+      publisher = {GitHub},
+      journal = {GitHub repository},
+      howpublished = {\url{https://github.com/daconjam/Recommender-System-Datasets}}
+      }
 
 
  
- ## Datasets
+## Datasets
 We conduct experiments to detect and examine the bias across the two datasets. We will now detail the three datasets as follows:
 
 ### MIND
