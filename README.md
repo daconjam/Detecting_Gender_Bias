@@ -15,12 +15,7 @@ Personal Page: [Portfolio](https://www.cse.msu.edu/~daconjam/)
 
 Paper BiBTeX citation:
     
-    @inproceedings{Dacon2021GenderBias,
-      author = {Dacon, Jamell and Liu, Haochen},
-      title = {Does Gender Matter in the News? Detecting and Examining Gender Bias},
-      booktitle = {WWW},
-      year = {2021}
-      }
+    @inbook{10.1145/3442442.3452325, author = {Dacon, Jamell and Liu, Haochen}, title = {Does Gender Matter in the News? Detecting and Examining Gender Bias in News Articles}, year = {2021}, isbn = {9781450383134}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3442442.3452325}, abstract = {To attract unsuspecting readers, news article headlines and abstracts are often written with speculative sentences or clauses. Male dominance in the news is very evident, whereas females are seen as “eye candy” or “inferior”, and are underrepresented and under-examined within the same news categories as their male counterparts. In this paper, we present an initial study on gender bias in news abstracts in two large English news datasets used for news recommendation and news classification. We perform three large-scale, yet effective text-analysis fairness measurements on 296,965 news abstracts. In particular, to our knowledge we construct two of the largest benchmark datasets of possessive (gender-specific and gender-neutral) nouns and attribute (career-related and family-related) words datasets1 which we will release to foster both bias and fairness research aid in developing fair NLP models to eliminate the paradox of gender bias. Our studies demonstrate that females are immensely marginalized and suffer from socially-constructed biases in the news. This paper individually devises a methodology whereby news content can be analyzed on a large scale utilizing natural language processing (NLP) techniques from machine learning (ML) to discover both implicit and explicit gender biases. }, booktitle = {Companion Proceedings of the Web Conference 2021}, pages = {385–392}, numpages = {8} }
       
 
 ## Datasets
